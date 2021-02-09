@@ -1,5 +1,7 @@
 # vue-formulate-i18n
 
+![](example.gif)
+
 ## Build Setup
 
 ```bash
